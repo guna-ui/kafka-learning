@@ -66,7 +66,7 @@ kafka-learning/
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/YOUR_USERNAME/kafka-learning.git
+git clone https://github.com/guna-ui/kafka-learning.git
 cd kafka-learning
 ```
 
